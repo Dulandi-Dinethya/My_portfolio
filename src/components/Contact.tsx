@@ -65,7 +65,7 @@ const Contact = () => {
                 <Button 
                   variant="outline" 
                   className="ml-4 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white font-semibold rounded-full px-4 py-2"
-                  onClick={() => window.open('/src/uploads/CV.pdf', '_blank')}
+                  onClick={() => window.open('/CV.pdf', '_blank')}
                 >
                   Download CV
                 </Button>
